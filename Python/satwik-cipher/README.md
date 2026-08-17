@@ -9,6 +9,10 @@ A Python command-line program that encrypts and decrypts text using a rotation (
 - User-defined shift key
 - Interactive command-line interface
 
+## Encryption
+![Encryption Demo](Encrypt.png)
+![Decryption Demo](Decrypt.png)
+
 ## Run
 
 ```bash
