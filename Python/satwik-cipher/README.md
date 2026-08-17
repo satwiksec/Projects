@@ -11,6 +11,8 @@ A Python command-line program that encrypts and decrypts text using a rotation (
 
 ## Encryption
 ![Encryption Demo](Encrypt.png)
+
+#### Now Decryption of the cipher text:
 ![Decryption Demo](Decrypt.png)
 
 ## Run
