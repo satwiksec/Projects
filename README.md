@@ -1,2 +1,13 @@
 # Projects
-A collection of projects built while learning programming, cybersecurity, and software development.
+
+A collection of projects I build while learning programming, cybersecurity, and software development.
+
+## Structure
+
+- Python
+- Web
+- Java
+- Bash
+- More coming soon...
+
+Each project is organized into its own folder with source code and documentation.
