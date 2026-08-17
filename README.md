@@ -5,9 +5,6 @@ A collection of projects I build while learning programming, cybersecurity, and 
 ## Structure
 
 - Python
-- Web
-- Java
-- Bash
 - More coming soon...
 
 Each project is organized into its own folder with source code and documentation.
