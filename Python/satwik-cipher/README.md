@@ -1,4 +1,4 @@
-# Satwik Cipher
+# Extended Caesar Cipher
 
 A Python command-line program that encrypts and decrypts text using a rotation (shift) cipher which is an extended version of caesar cipher.
 
