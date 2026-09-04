@@ -10,10 +10,10 @@ A Python command-line program that encrypts and decrypts text using a rotation (
 - Interactive command-line interface
 
 ## Encryption
-![Encryption Demo](Encrypt.png)
+![Encryption Demo](../images/Encrypt.png)
 
 #### Now Decryption of the cipher text:
-![Decryption Demo](Decrypt.png)
+![Decryption Demo](../images/Encrypt.png)
 
 ## Run
 
