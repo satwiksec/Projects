@@ -14,7 +14,7 @@ MAX_KEY = len(alpha) - 1
 while True:
 
     print("\n" + "=" * 50)
-    print("             🔐 SATWIK CIPHER 🔐")
+    print("             🔐 Extended Caesar Cipher 🔐")
     print("=" * 50)
     print("[E] Encrypt")
     print("[D] Decrypt")
@@ -24,14 +24,14 @@ while True:
     choice = input("Your choice: ").strip().lower()
 
     if choice == "q":
-        print("\n Thank you for using Satwik Cipher!")
+        print("\n Thank you for using Extended Caesar Cipher!")
         break
 
     if choice not in ("e", "d"):
         print("\n❌ Invalid option!")
         continue
 
-    # ------------------------ Key ----------------------
+    # ------------------------ Key ---------------------------
 
     while True:
         try:
